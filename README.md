@@ -1,1 +1,1 @@
-# shicirili-config
+# spring-cloud-config
